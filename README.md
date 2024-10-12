@@ -1,5 +1,7 @@
 # 基于机器学习的遥感图像识别算法(kNN/SVM/CNN/LSTM)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1_cETCiwXJ3JxE_TnyzWJZwSl6wAisbMj?usp=sharing)
+
 随着遥感卫星成像技术的提升和机器学习的蓬勃发展，越来越多的研究人员利用机器学习的方法来进行遥感图像识别，取得了很好的效果。在本次作业中，我将利用四种机器学习算法在WHU-RS19数据集上进行遥感图像识别的尝试，这其中既包括传统的kNN和SVM，也包括近年来得到青睐的CNN和LSTM算法。本文的基本结构如下：
 
 * 数据集
